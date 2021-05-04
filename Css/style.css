@@ -45,7 +45,10 @@ section input:last-child{
     color: white;
 }
 
-
+table{
+margin-top: 35px;
+    
+}
 #formSection{
 
     background-color: rgba(96, 96, 96,.8);
